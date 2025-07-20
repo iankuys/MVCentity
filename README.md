@@ -1,4 +1,4 @@
-ShoppingApp - ASP.NET MVC Project
+# ShoppingApp - ASP.NET MVC Project
 
 This is a basic **Movie Rental & Customer Management** web application built with **ASP.NET MVC 5**. It provides a foundational structure for building a customer-centric platform using Entity Framework, Razor views, and identity management.
 
